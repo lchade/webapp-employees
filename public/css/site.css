@@ -1,0 +1,74 @@
+p, td {
+	color: #252525;
+}
+
+.navbar-header .navbar-brand {
+	color: orange;
+	font-family: 'Saira Stencil One', cursive;
+	font-size: x-large;
+}
+
+.navbar-header .navbar-brand:hover {
+	color: orange;
+	font-family: 'Saira Stencil One', cursive;
+	font-size: x-large;
+}
+
+nav.navbar.navbar-default {
+	background-color: #696969;
+	font-family: 'Montserrat', sans-serif;
+	border-radius: 0;
+}
+
+ul.nav.navbar-nav li>a {
+	color: white;
+	text-transform: uppercase;
+	font-weight:bold;
+}
+
+ul.nav.navbar-nav li>a:hover {
+	color: orange;
+}
+
+ul.dropdown-menu {
+	background: #484848;
+}
+
+ul.dropdown-menu li>a{
+	color: white;
+}
+
+.dropdown-menu li a {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.dropdown-menu li a:hover {
+	background: #484848;
+	color: orange;
+}
+
+p, table, h2, .btn {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+nav.navbar.navbar-default li a:hover {
+	color: orange;
+}
+
+.navbar-header {
+	color: white;
+}
+
+.btn {
+	font-family: 'DM Sans', sans-serif;
+}
+
+.btn-primary {
+	background: #3d9eee;
+	border:#3d9eee;
+}
+
+.btn-primary:hover {
+	background: #1684f1;
+	border: #1684f1;
+}
